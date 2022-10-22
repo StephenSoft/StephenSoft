@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @StephenSoft
 - 👀 I’m interested in Web develop
+- ⌚️ I have five years of back-end development experience
+- 💻 I develop in Ruby On Rails most of the time
 - 🌱 I’m currently learning React.js, Golang and Project Management
