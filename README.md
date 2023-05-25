@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web develop
 - ⌚️ I have senven years of back-end development experience
 - 💻 I develop in Ruby On Rails most of the time
-- 🌱 I’m currently learning React.js, Golang and Project Management
+- 🌱 I’m currently learning React.js, Project Management
